@@ -26,3 +26,6 @@ Fonts are loaded from Google Fonts: Bowlby One SC, Barlow Condensed, and DM Sans
 ## Important
 
 Orbit Taco is **not a real restaurant**. The sample menu and pickup flow should never be misrepresented as a real ordering service. To convert this concept into a real business website, add a real location, verified operating hours, official menu, secure ordering backend or reputable ordering platform, proper legal/privacy notices, and real customer support contact details.
+## Brand artwork
+
+Transparent primary logo and orbit favicon: `assets/logos/`. Scalable illustrations: `assets/icons/`. Background starfield, checkerboard and orbit swoosh: `assets/graphics/`. Diner and menu WebP images: `assets/images/`. The entire site remains a fictional Thirty3 Digital Designs portfolio demo; ordering does not collect payments or send real orders.
